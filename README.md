@@ -1,6 +1,6 @@
 # Protein architecture of a eukaryotic genome
 
-## Matthew J. Rossi, Prashant K. Kuntala, William K.M. Lai, Naomi Yamada, Nitika Badjatia, Chitvan Mittal, Guray Kuzu, Kylie Bocklund, Nina P. Farrell, Thomas R. Blanda, Joshua D. Mairose, Ann V. Basting, Katelyn S. Mistretta, David J. Rocco, Emily S. Perkinson, Gretta D. Kellogg, Shaun Mahony, B. Franklin Pugh*
+## Matthew J. Rossi, Prashant K. Kuntala, William K.M. Lai, Naomi Yamada, Nitika Badjatia, Chitvan Mittal, Guray Kuzu, Kylie Bocklund, Nina P. Farrell, Thomas R. Blanda, Joshua D. Mairose, Ann V. Basting, Katelyn S. Mistretta, David J. Rocco, Emily S. Perkinson, Gretta D. Kellogg, Shaun Mahony, B. Franklin Pugh
 
 ### Center for Eukaryotic Gene Regulation, Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania 16802, USA
 

@@ -1,4 +1,4 @@
-# High resolution protein architecture of a eukaryotic genome
+# A high-resolution protein architecture of the budding yeast genome
 
 ## Matthew J. Rossi, Prashant K. Kuntala, William K.M. Lai, Naomi Yamada, Nitika Badjatia, Chitvan Mittal, Guray Kuzu, Kylie Bocklund, Nina P. Farrell, Thomas R. Blanda, Joshua D. Mairose, Ann V. Basting, Katelyn S. Mistretta, David J. Rocco, Emily S. Perkinson, Gretta D. Kellogg, Shaun Mahony, B. Franklin Pugh
 

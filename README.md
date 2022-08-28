@@ -8,6 +8,7 @@
 ### Correspondence: fp265@cornell.edu
 
 ### [www.yeastepigenome.org](http://www.yeastepigenome.org/)
+### PMID : [33692541](https://pubmed.ncbi.nlm.nih.gov/33692541/)
 ### GEO ID : [GSE147927](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147927)
 
 ## Overview
